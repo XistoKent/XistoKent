@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XistoKent
-- 👀 I’m interested in game deelopment
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning C#, Godot and general skills
 - 💞️ I’m looking to collaborate on anything fun :D
 - 📫 How to reach me ...?
